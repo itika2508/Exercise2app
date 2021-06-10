@@ -77,3 +77,7 @@ C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2
 C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\obj\Debug\WebAppGitExercise2.csproj.CopyComplete
 C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\obj\Debug\WebAppGitExercise2.dll
 C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\obj\Debug\WebAppGitExercise2.pdb
+C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\bin\EntityFramework.dll
+C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\bin\EntityFramework.xml
+C:\Users\hp\source\repos\day-46\New folder\WebAppGitExercise2\WebAppGitExercise2\bin\EntityFramework.SqlServer.xml
